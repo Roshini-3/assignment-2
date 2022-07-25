@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aquamarine;
+}
+.container{
+    border: 2px solid red;
+    width:1000px;
+    height:400px;
+    margin-top: 100px;
+    margin-left: 150px;
+    background-color: blueviolet;
+    border-radius: 30px;
+}
+.quote{
+    /*border: 2px solid blue;*/
+    width:800px;
+    height:200px;
+    padding-top: 50px;
+    padding-left: 100px;
+    color: white;
+}
+.y{
+    /*border: 2px solid blue*;*/
+    width:200px;
+    height:100px;
+    margin-left: 100px;
+}
+.author{
+    padding-left: 400px;
+    padding-top: 100px;
+    color: white;
+}
+.todo{
+    padding-left: 600px;
+    padding-top: 20px;
+}
+.o{
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
